@@ -105,7 +105,7 @@ const developer = {
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/256619562-5ef9c43f-0f5f-4b8e-9e8c-0ef7a22e1b4b.gif" width="180"/>
+<img src="https://i.imgur.com/JLrigel.gif" width="200"/>
 
 </div>
 
