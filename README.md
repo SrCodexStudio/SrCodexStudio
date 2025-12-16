@@ -103,6 +103,10 @@ const developer = {
 ![Anime](https://img.shields.io/badge/Otaku-Level%20Over%209000-ff69b4?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee%20☕-A177FE?style=for-the-badge)
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/256619562-5ef9c43f-0f5f-4b8e-9e8c-0ef7a22e1b4b.gif" width="180"/>
+
 </div>
 
 <br>
@@ -117,13 +121,6 @@ const developer = {
   <a href="https://discord.gg/hidencloud">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
-
-<br>
-
-<!-- Waifu -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/IxHMk-xy9PAAAAAC/anime-anime-girl.gif" width="200"/>
 </div>
 
 <br>
