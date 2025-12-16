@@ -121,6 +121,13 @@ const developer = {
 
 <br>
 
+<!-- Waifu -->
+<div align="center">
+  <img src="https://media1.tenor.com/m/IxHMk-xy9PAAAAAC/anime-anime-girl.gif" width="200"/>
+</div>
+
+<br>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
